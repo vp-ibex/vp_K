@@ -1,0 +1,162 @@
+#
+# Results on Saturday June 08 2019 20:46:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,age,24
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,write_something,
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,yes
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,yes
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,credit,no
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,sex,male
+1560026807,836bec085fc819c1f58cdde15595fd34,Form,1,0,intro,NULL,_REACTION_TIME_,5519
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,2,0,filler,NULL,<p align=left> Дикие розы шипы раскинули%2C <br> Манят своим ароматом%2C <br> Горе тому%2C кто повергнут в уныние <br> И не окинет их взглядом! <br>  </p>,следующий текст,NULL,998
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,273
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,13,0,exp,NULL,<p align=left> Три века ― нынешний и прежний ― <br> Горды соседством и собой: <br> Антенна рядом со скворешней <br> Над подмосковною избой.  <br> </p>,следующий текст,NULL,260
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,152
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,7,0,filler,NULL,<p align=left> Сумей сквозь тучи солнце разглядеть%2C <br> В дожде сумей увидеть очищенье%2C <br> Не дай душе уныньем заболеть… <br> Лекарство в мире зла одно — прощенье. <br> </p>,следующий текст,NULL,268
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,59
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,8,0,control,NULL,<p align=left> Даже через тучи солнце светит%2C <br> Золотом лучей издалека. <br> И пускай ревёт в порывах ветер! <br> Что с того%2C что хмуры облака? <br>  </p>,следующий текст,NULL,203
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,31
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,4,0,filler,NULL,<p align=left> Тает лёд на речке бурной%2C <br> Греет солнца свет%2C <br> И сугроб водою мутной <br> Убежит во след. </p>,следующий текст,NULL,227
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,23
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,10,0,exp,NULL,<p align=left> Ветки с листьев опадают. <br> Лить дожди не устают. <br> Улетают птичьи стаи%2C <br> направляются на юг. <br>  </p>,следующий текст,NULL,234
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,3
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,14,0,filler,NULL,<p align=left> Твои глаза так были близко%2C <br> Так хрупок шум твоих волос. <br> Бег мерный месячного диска <br> Кропил нас мглой безвлажных рос. <br> </p>,следующий текст,NULL,215
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,30
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,3,0,control,NULL,<p align=left> Обезображена%2C поругана%2C  <br> Чужой становится земля%2C  <br> А там%2C внизу%2C дрожат испуганно <br> Огни домов и корабля. <br>  <br></p>,следующий текст,NULL,658
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,63
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,9,0,filler,NULL,<p align=left> За решеткой в голубом <br> Быстро ласточки скользили. <br> Коротал я время сном <br> В желтых клубах душной пыли.  <br>  </p>,следующий текст,NULL,186
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,49
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,5,0,exp,NULL,<p align=left> Со свечой поднимаюсь в подвал. <br> В нём я часто и прежде бывал <br> при недвижимом ламповом свете. <br> Только лопнул волнистый вольфрам%2C <br> и волнуется тьма по углам — <br> у неё я давно на примете.  <br>  </p>,следующий текст,NULL,641
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,263
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,12,0,filler,NULL,<p align=left> Её глаза — как два тумана%2C <br> Полуулыбка%2C полуплач%2C <br> Её глаза — как два обмана%2C <br> Покрытых мглою неудач. <br>  </p>,следующий текст,NULL,544
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,210
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,6,0,control,NULL,<p align=left> Где ласковый нажим чугунного графита <br> ограду начертил и стройный ряд дерев%2C  <br> стоят два всадника ― маркграф и маркграфиня%2C <br> пространство трех веков воздушно одолев.  <br>  </p>,следующий текст,NULL,278
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,47
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,15,0,filler,NULL,<p align=left> Сирени бледные дождем к земле прибиты… <br> Замолкла песня соловья; <br> Немолчно говор слышится сердитый <br> Разлитого ручья.  <br>  </p>,следующий текст,NULL,223
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,197
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,16,0,exp,NULL,<p align=left> В ответ Морозец пошалил – <br> (Вот молодец-проказник!) — <br> Он иней травкою покрыл%2C <br> Нам не испортил праздник! <br>  </p>,следующий текст,NULL,231
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,142
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,17,0,filler,NULL,<p align=left> Люблю я этот старый сад%2C <br> Он мил%2C как мгла воспоминанья. <br> С тоской впиваю аромат <br> Его осеннего дыханья. <br> </p>,следующий текст,NULL,653
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,193
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,11,0,control,NULL,<p align=left> Через поле я иду <br> У колосьев на виду. <br> И спускаюсь я в овраг%2C <br> Он не друг мне — он мой враг. <br>  </p>,следующий текст,NULL,264
+1560026807,836bec085fc819c1f58cdde15595fd34,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,313
+#
+# Results on Friday June 28 2019 16:49:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 YaBrowser/19.6.1.153 Yowser/2.5 Safari/537.36
+# Design number was non-random = 19
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,age,23
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,write_something,
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,yes
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,credit,no
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,sex,male
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Form,1,0,intro,NULL,_REACTION_TIME_,59969
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,9,0,filler,NULL,<p align=left> За решеткой в голубом <br> Быстро ласточки скользили. <br> Коротал я время сном <br> В желтых клубах душной пыли.  <br>  </p>,следующий текст,NULL,5062
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,6998
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,5,0,exp,NULL,<p align=left> Со свечой поднимаюсь в подвал. <br> В нём я часто и прежде бывал <br> при недвижимом ламповом свете. <br> Только лопнул волнистый вольфрам%2C <br> и волнуется тьма по углам — <br> у неё я давно на примете.  <br>  </p>,следующий текст,NULL,12196
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,4971
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,8,0,control,NULL,<p align=left> Даже через тучи солнце светит%2C <br> Золотом лучей издалека. <br> И пускай ревёт в порывах ветер! <br> Что с того%2C что хмуры облака? <br>  </p>,следующий текст,NULL,7643
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,994
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,7,0,filler,NULL,<p align=left> Сумей сквозь тучи солнце разглядеть%2C <br> В дожде сумей увидеть очищенье%2C <br> Не дай душе уныньем заболеть… <br> Лекарство в мире зла одно — прощенье. <br> </p>,следующий текст,NULL,8202
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,722
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,2,0,filler,NULL,<p align=left> Дикие розы шипы раскинули%2C <br> Манят своим ароматом%2C <br> Горе тому%2C кто повергнут в уныние <br> И не окинет их взглядом! <br>  </p>,следующий текст,NULL,7282
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,771
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,10,0,exp,NULL,<p align=left> Ветки с листьев опадают. <br> Лить дожди не устают. <br> Улетают птичьи стаи%2C <br> направляются на юг. <br>  </p>,следующий текст,NULL,7516
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1027
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,11,0,control,NULL,<p align=left> Через поле я иду <br> У колосьев на виду. <br> И спускаюсь я в овраг%2C <br> Он не друг мне — он мой враг. <br>  </p>,следующий текст,NULL,1186
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,753
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,15,0,filler,NULL,<p align=left> Сирени бледные дождем к земле прибиты… <br> Замолкла песня соловья; <br> Немолчно говор слышится сердитый <br> Разлитого ручья.  <br>  </p>,следующий текст,NULL,924
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,578
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,12,0,filler,NULL,<p align=left> Её глаза — как два тумана%2C <br> Полуулыбка%2C полуплач%2C <br> Её глаза — как два обмана%2C <br> Покрытых мглою неудач. <br>  </p>,следующий текст,NULL,586
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1098
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,16,0,exp,NULL,<p align=left> В ответ Морозец пошалил – <br> (Вот молодец-проказник!) — <br> Он иней травкою покрыл%2C <br> Нам не испортил праздник! <br>  </p>,следующий текст,NULL,2131
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,706
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,3,0,control,NULL,<p align=left> Обезображена%2C поругана%2C  <br> Чужой становится земля%2C  <br> А там%2C внизу%2C дрожат испуганно <br> Огни домов и корабля. <br>  <br></p>,следующий текст,NULL,5903
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,580
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,4,0,filler,NULL,<p align=left> Тает лёд на речке бурной%2C <br> Греет солнца свет%2C <br> И сугроб водою мутной <br> Убежит во след. </p>,следующий текст,NULL,5299
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,683
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,17,0,filler,NULL,<p align=left> Люблю я этот старый сад%2C <br> Он мил%2C как мгла воспоминанья. <br> С тоской впиваю аромат <br> Его осеннего дыханья. <br> </p>,следующий текст,NULL,3795
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,675
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,13,0,exp,NULL,<p align=left> Три века ― нынешний и прежний ― <br> Горды соседством и собой: <br> Антенна рядом со скворешней <br> Над подмосковною избой.  <br> </p>,следующий текст,NULL,6066
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,931
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,6,0,control,NULL,<p align=left> Где ласковый нажим чугунного графита <br> ограду начертил и стройный ряд дерев%2C  <br> стоят два всадника ― маркграф и маркграфиня%2C <br> пространство трех веков воздушно одолев.  <br>  </p>,следующий текст,NULL,6132
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,3225
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,14,0,filler,NULL,<p align=left> Твои глаза так были близко%2C <br> Так хрупок шум твоих волос. <br> Бег мерный месячного диска <br> Кропил нас мглой безвлажных рос. <br> </p>,следующий текст,NULL,6091
+1561740594,c560b68604cbf5d1a9e32f8edc47d0a5,Question,18,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1358
